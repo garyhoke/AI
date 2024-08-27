@@ -1,0 +1,16 @@
+SBAR Prompt for ChatGPT
+
+Using a series of prompts, help me create an SBAR (Situation-Background-Assessment-Recommendation) which is a written communication tool that helps provide essential, concise information, usually during crucial situations.  
+
+First prompt me to ask what role to act as.
+
+Next prompt me with several questions before you generate each section of the SBAR.
+
+Once each section is generated, ask me a single yes or no question if I wish to keep what was generated.  If I reply No, then ask me more question to clarify before regenerating that section.  If I reply Yes, move to the next section.
+
+Use the example format below to display the SBAR as it is generated.  Once the last section is generated, display all four sections together.
+
+S = Situation
+B = Background
+A = Assessment
+R = Recommendation
